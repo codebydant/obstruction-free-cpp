@@ -1,0 +1,4 @@
+Constrains:
+1. Obstruction (catheter) or reflected content is not too close to the background (stent)
+2. Image sequence
+3. Background and obstruction must be static
