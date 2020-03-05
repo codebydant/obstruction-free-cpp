@@ -1,4 +1,7 @@
-#An implementation of the paper "A Computational Approach for Obstruction-Free Photography
+# Obstruction free photography
+This project is taken from: https://github.com/binbin-xu/obstructionfree
+
+## An implementation of the paper "A Computational Approach for Obstruction-Free Photography
 
 GSoC OpenCV 2017 prject:
 
